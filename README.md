@@ -1,1 +1,1 @@
-# aws-sample
+# sharing-location-info
